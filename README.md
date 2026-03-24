@@ -1,6 +1,6 @@
 # 📰 Archives Maire-Info
 
-Outil d'archivage et de consultation des articles du quotidien [Maire-Info](https://maire-info.com), édité par l'Association des Maires de France (AMF).
+Expérimentation pour un outil d'archivage et de consultation des articles du quotidien [Maire-Info](https://maire-info.com), édité par l'Association des Maires de France (AMF).
 
 **Application autonome** (fichier HTML unique) mise à jour automatiquement chaque jour ouvré via GitHub Actions.
 **[Page de test](https://bertrandformet.github.io/maires/)**
